@@ -1,0 +1,6 @@
+{
+  "name": "Mini Terraria - 2D Sandbox Adventure",
+  "description": "A 2D pixel sandbox adventure inspired by Terraria with procedural terrain, mining, building, crafting, day-night cycle, slime & zombie monsters, torches, and boss battle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
